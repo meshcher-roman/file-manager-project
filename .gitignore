@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+workspace/
+.ipynb_checkpoints/
+run_log.txt
+
